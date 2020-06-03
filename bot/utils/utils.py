@@ -524,7 +524,7 @@ async def trim_fn(c, m):
             supports_streaming=True
         )
         
-        await snt.edit_text(f'Successfully completed process in {datetime.timedelta(seconds=int(time.time()-start_time))}\n\n\n\n©️ @odbots  @TGBotsZ  @InFoTelGroup')
+        await snt.edit_text(f'Successfully completed process in {datetime.timedelta(seconds=int(time.time()-start_time))}\n\n\n\n©️ @NRBotsZ  ')
         c.CURRENT_PROCESSES[chat_id] -= 1
         
     except:
