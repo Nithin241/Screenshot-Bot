@@ -20,7 +20,7 @@ async def start(c, m):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('📌  Support Group', url='https://t.me/InFoTelGroup'),
+                    InlineKeyboardButton('📌  Support Group', url='https://t.me/NRBotsZ'),
                     InlineKeyboardButton('🔖  Projects Channel', url='https://t.me/TGBotsZ')
                 ],
                 [
