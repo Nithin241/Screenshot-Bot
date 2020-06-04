@@ -20,12 +20,13 @@ async def start(c, m):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
+                    InlineKeyboardButton('📌  Support Group', url='https://t.me/super_botz_support'),
                     InlineKeyboardButton('📌  Support Group', url='https://t.me/NRBotsZ'),
-                    InlineKeyboardButton('🔖  Projects Channel', url='https://t.me/NRBotsZ')
+                    InlineKeyboardButton('🔖  Projects Channel', url='https://t.me/Super_Botz')
                 ],
                 [
-                    InlineKeyboardButton('💡  Source Code', url='https://t.me/KannadaWarriors'),
-                    InlineKeyboardButton('👨  Master', url='https://t.me/Nithinofficial_admin')
+                    InlineKeyboardButton('▪  MY Father [1]', url='https://t.me/Nithinofficial_admin'),
+                    InlineKeyboardButton('▪  MY Father [2]', url='https://t.me/Ankith_M')
                 ]
             ]
         )
