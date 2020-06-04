@@ -16,12 +16,12 @@ async def start(c, m):
     
     await m.reply_text(
         text=f"Hi there {m.from_user.first_name}.\n\nI'm Screenshot Generator Bot. I can provide screenshots from your video files with out downloading the entire file (almost instantly). For more details check /help.",
+If you like you can join our another projects channel @NRBotsZ
         quote=True,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton('📌  Support Group', url='https://t.me/super_botz_support'),
-                    InlineKeyboardButton('📌  Support Group', url='https://t.me/NRBotsZ'),
                     InlineKeyboardButton('🔖  Projects Channel', url='https://t.me/Super_Botz')
                 ],
                 [
