@@ -21,8 +21,8 @@ async def start(c, m):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('📌  Support Group', url='https://t.me/super_botz_support'),
-                    InlineKeyboardButton('🔖  Projects Channel', url='https://t.me/Super_Botz')
+                    InlineKeyboardButton('📌  Support Group', url='https://t.me/NRBotsZ'),
+                    InlineKeyboardButton('🔖  Projects Channel', url='https://t.me/NRBotsZ')
                 ],
                 [
                     InlineKeyboardButton('⭐ Rate US', url='https://t.me/tlgrmcbot?start=screenshotgeneratetgbot-review'),
