@@ -25,8 +25,8 @@ async def start(c, m):
                     InlineKeyboardButton('🔖  Projects Channel', url='https://t.me/Super_Botz')
                 ],
                 [
-                    InlineKeyboardButton('⭐ Rate US', url='https://t.me/tlgrmcbot?start=screenshotgeneratortgbot-review'),
-                    InlineKeyboardButton('▪  MY Brother', url='https://t.me/ScreenshotGeneratorBot')
+                    InlineKeyboardButton('⭐ Rate US', url='https://t.me/tlgrmcbot?start=screenshotgeneratetgbot-review'),
+                    InlineKeyboardButton('▪  MY Master', url='https://t.me/NithinOfficial_Admin')
                 ]
             ]
         )
